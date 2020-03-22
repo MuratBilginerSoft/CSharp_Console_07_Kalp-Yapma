@@ -1,0 +1,12 @@
+C:\Users\murat\Desktop\ \Yeni klasör\Kalp Yapma\Kalp Yapma\bin\Debug\Kalp Yapma.exe
+C:\Users\murat\Desktop\ \Yeni klasör\Kalp Yapma\Kalp Yapma\bin\Debug\Kalp Yapma.pdb
+C:\Users\murat\Desktop\ \Yeni klasör\Kalp Yapma\Kalp Yapma\obj\x86\Debug\Kalp Yapma.exe
+C:\Users\murat\Desktop\ \Yeni klasör\Kalp Yapma\Kalp Yapma\obj\x86\Debug\Kalp Yapma.pdb
+E:\04 - Yazılım\06 - Console Projeler\56 Kalp Yapma\Kalp Yapma\obj\x86\Debug\Kalp Yapma.exe
+E:\04 - Yazılım\06 - Console Projeler\56 Kalp Yapma\Kalp Yapma\obj\x86\Debug\Kalp Yapma.pdb
+E:\04 - Yazılım\06 - Console Projeler\56 Kalp Yapma\Kalp Yapma\bin\Debug\Kalp Yapma.exe
+E:\04 - Yazılım\06 - Console Projeler\56 Kalp Yapma\Kalp Yapma\bin\Debug\Kalp Yapma.pdb
+E:\03 - Yazılım\06 - Console Projeler\16 Kalp Yapma\Kalp Yapma\obj\x86\Debug\Kalp Yapma.exe
+E:\03 - Yazılım\06 - Console Projeler\16 Kalp Yapma\Kalp Yapma\obj\x86\Debug\Kalp Yapma.pdb
+E:\03 - Yazılım\06 - Console Projeler\16 Kalp Yapma\Kalp Yapma\bin\Debug\Kalp Yapma.exe
+E:\03 - Yazılım\06 - Console Projeler\16 Kalp Yapma\Kalp Yapma\bin\Debug\Kalp Yapma.pdb
